@@ -1,0 +1,29 @@
+<style type="text/css">
+	.container {
+	    width: 1000px;
+	    margin-left: 200px;
+	    margin-top: 37px;
+	}
+	.invoice{
+	    width: 400px !important;
+	    margin-left: 440px;
+    }
+	h5{
+	    margin-top: 10px !important;
+	    margin-bottom: 2px !important;
+	    text-align: center;
+	}
+	p {
+    	margin: 0 0 2px !important;
+    	text-align: center;
+	}
+	.table{
+	    width:  425px;
+	}
+	label {
+	    display: inline-block !important;
+	    max-width: 100% !important;
+	    margin-bottom: 5px !important;
+	    font-weight: 1px solid !important;
+	}
+</style>
